@@ -1,2 +1,2 @@
 # hamsabdulwahed.github.io
-A website of my portfolio
+A website for my portfolio
